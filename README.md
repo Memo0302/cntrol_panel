@@ -1,7 +1,15 @@
 # cntrol_panel
+
+
 link to wokwi "https://wokwi.com/projects/371263171426579457"
+
+
 i use 4leds to forword then right then left then stop all leds
+
+
 my code :
+
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WiFiMulti.h>
@@ -177,6 +185,16 @@ void loop() {
     }
     delay(5000);
 }
+
+
+
+
+
+
+
+
+
+
 
 ![Screenshot 2023-07-27 173317](https://github.com/Memo0302/cntrol_panel/assets/92684739/d486ac95-f304-4702-ac58-0cc79947ff00)
 
